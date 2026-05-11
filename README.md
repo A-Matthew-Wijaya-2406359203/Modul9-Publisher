@@ -28,3 +28,6 @@ Kenapa publisher dan subscriber pakai URL yang sama? Karena keduanya harus terhu
 
 ## Running RabbitMQ
 ![Running RabbitMQ](image.png)
+
+## Publisher Console
+![Sending Event Console](image-1.png)
