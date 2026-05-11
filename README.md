@@ -25,3 +25,6 @@ Artinya:
 - `5672` = port default AMQP.
 
 Kenapa publisher dan subscriber pakai URL yang sama? Karena keduanya harus terhubung ke broker yang sama supaya message yang dikirim publisher bisa diterima subscriber.
+
+## Running RabbitMQ
+![Running RabbitMQ](image.png)
